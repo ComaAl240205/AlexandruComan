@@ -3,12 +3,16 @@
 Portfolio, projects and experiments in software development, web technologies and programming.
 
 ## Skills
-- Java
-- C
-- C++
-- JavaScript
-- HTML
-- CSS
+
+- C++ (Intermediate)
+- Java (Intermediate)
+- C (Basic)
+- JavaScript (Basic)
+- HTML (Basic)
+- CSS (Basic)
 
 ## Currently
-HTL IT student interested in software development and continuously improving programming skills through personal projects.
+
+HTL IT student interested in software and web development.
+
+Learning through personal projects and school projects.
